@@ -13,5 +13,5 @@ jobs:
     steps:
       - uses: siddharth2016/quote-readme@main
         with:
-          COMMIT_MESSAGE: <your-commit-message>       # default - Update with quote-readme
+          COMMIT_MESSAGE: quote-readme     # default - Update with quote-readme
           OPTION: both    
