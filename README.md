@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, I'm Atul Sahay</h1>
 <h3 align="center">A Data Scientist @Microsoft, hailing from India</h3>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ditikrushna" alt="Atul Sahay" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=atul04" alt="Atul Sahay" /> </p>
 
 <div align="center">
 You have finally discovered my Github profile. <br>
