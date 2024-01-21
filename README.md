@@ -25,14 +25,13 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
-## 📫 Contact me 
+📫 Contact me 
  <br>
  
   - 📫 How to reach me: [atulsahay01@gmail.com](mailto:atulsahay01@gmail.com);
   - 🔗 My website: [https://bold.pro/my/atul-sahay-231221135951](https://bold.pro/my/atul-sahay-231221135951)
     
  </br>
- 
 ---
 
 <!--START_SECTION:waka-->
