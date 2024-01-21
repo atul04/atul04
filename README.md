@@ -23,6 +23,15 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝CPU manufacturing is so unpredictable that every chip must be tested since the majority of finished chips are defective. Those that survive are assigned a model number and price reflecting their maximum safe performance.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
+
+---
+## 📫 Contact me 
+ <br>
+ 
+  - 📫 How to reach me: [atulsahay01@gmail.com](mailto:atulsahay01@gmail.com);
+  - 🔗 My website: [https://bold.pro/my/atul-sahay-231221135951](https://bold.pro/my/atul-sahay-231221135951)
+    
+ </br>
  
 ---
 
@@ -66,7 +75,27 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
 
 --- 
 
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=atul04&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+</details>
+
+--- 
+### 📢 Find me elsewhere
+
 <p align="center">
+ <a href="https://www.linkedin.com/in/atul-sahay-400321113/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a> 
+
+<p align="center">
+ <a href="https://www.instagram.com/_atul_sahay/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a> 
+  
+ 
   <a href="https://leetcode.com/atul04/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>
@@ -74,10 +103,6 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
   <a href="https://www.hackerrank.com/atul04">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>
-  
-  <a href="https://www.codewars.com/users/atul04">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
-  </a> 
 </p>
 
 
