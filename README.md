@@ -25,17 +25,13 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
-
 📫 Contact me 
  <br>
- 
-  - 📫 How to reach me: [atulsahay01@gmail.com](mailto:atulsahay01@gmail.com);
-  - 🔗 My website: [https://bold.pro/my/atul-sahay-231221135951](https://bold.pro/my/atul-sahay-231221135951)
-    
+  - 📫 How to reach me: [atulsahay01@gmail.com](mailto:atulsahay01@gmail.com)
+  - 🔗 My website: [https://bold.pro/my/atul-sahay-231221135951](https://bold.pro/my/atul-sahay-231221135951) 
  </br>
  
 ---
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20million%20lines%20of%20code-blue)
 
