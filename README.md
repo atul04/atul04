@@ -14,11 +14,13 @@ Ask me anything <a href="https://github.com/atul04/atul04/issues/new"><b>here</b
 
 </br>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> ***About Me***
 
-I am a seasoned professional with a strong background in Machine Learning, NLP, and Computer Vision, showcased through work as a Research Assistant. Experience at Microsoft, combined with active participation in the IIIT Kalyani Alumni Council, reflects commitment to technology and community engagement. Holding a Master's from IIT Bombay and a Bachelor's from IIIT Kalyani, where I achieved Gold Medalist and President's Award status, underscores my dedication to academic excellence. My certifications and skills highlight expertise in 'Data Mining,' 'Algorithm Design,' 'Leadership,' and 'Research & Development,' positioning me for success in roles requiring these capabilities.
+I am a seasoned professional with a strong background in Machine Learning, NLP, and Computer Vision, showcased through work as a Research Assistant. Experience at Microsoft, combined with active participation in the IIIT Kalyani Alumni Council, reflects the commitment to technology and community engagement. Holding a Master's from IIT Bombay and a Bachelor's from IIIT Kalyani, where I achieved Gold Medalist and President's Award status, underscores my dedication to academic excellence. My certifications and skills highlight expertise in 'Data Mining,' 'Algorithm Design,' 'Leadership,' and 'Research & Development,' positioning me for success in roles requiring these capabilities.
 
 
+
+### Fun Fact 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝CPU manufacturing is so unpredictable that every chip must be tested since the majority of finished chips are defective. Those that survive are assigned a model number and price reflecting their maximum safe performance.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
