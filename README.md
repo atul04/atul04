@@ -25,6 +25,7 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
+
 📫 Contact me 
  <br>
  
@@ -32,6 +33,7 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
   - 🔗 My website: [https://bold.pro/my/atul-sahay-231221135951](https://bold.pro/my/atul-sahay-231221135951)
     
  </br>
+ 
 ---
 
 <!--START_SECTION:waka-->
