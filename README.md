@@ -18,7 +18,7 @@ Ask me anything <a href="https://github.com/atul04/atul04/issues/new"><b>here</b
 
 I am a seasoned professional with a strong background in Machine Learning, NLP, and Computer Vision, showcased through work as a Research Assistant. My experience at Microsoft and active participation in the IIIT Kalyani Alumni Council reflect my commitment to technology and community engagement. Holding a Master's from IIT Bombay and a Bachelor's from IIIT Kalyani, where I achieved Gold Medalist and President's Award status, underscores my dedication to academic excellence. My certifications and skills highlight expertise in 'Data Mining,' 'Algorithm Design,' 'Leadership,' and 'Research & Development,' positioning me for success in roles requiring these capabilities.
 
-## Fun Fact
+## 🚀 Fun Fact
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝CPU manufacturing is so unpredictable that every chip must be tested since the majority of finished chips are defective. Those that survive are assigned a model number and price reflecting their maximum safe performance.❞</i>
