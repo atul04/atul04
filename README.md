@@ -21,7 +21,7 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
 ## 🚀 Fun Fact
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Imagination is more important than knowledge.  For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.”— Albert Einstein   ❞</i>
+<i>❝2012 was the year a hacker group took down Pope John’s website because a food company spent over two hours to deliver as expected. The hacker group was called UGNazi.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
