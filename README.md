@@ -33,7 +33,7 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
  
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20million%20lines%20of%20code-blue)
 
@@ -62,14 +62,15 @@ Sunday                   118 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████░░░░░░░░   66.24 % 
+Other                    0 secs              ████████░░░░░░░░░░░░░░░░░   33.76 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2024 18:38:52 UTC
+ Last Updated on 27/03/2024 18:38:44 UTC
 <!--END_SECTION:waka-->
 
 ---
