@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Atul Sahay</h1>
-<h3 align="center">A Data Scientist @Microsoft, hailing from India</h3>
+<h3 align="center">A Senior Data Scientist @Cyble | Ex-Microsoft , hailing from India</h3>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=atul04" alt="Atul Sahay" /> </p>
 
 <div align="center">
