@@ -33,10 +33,43 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
  
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2035%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20million%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 03/11/2024 18:44:13 UTC
+```text
+🌞 Morning                59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+🌆 Daytime                277 commits         █████████░░░░░░░░░░░░░░░░   35.97 % 
+🌃 Evening                311 commits         ██████████░░░░░░░░░░░░░░░   40.39 % 
+🌙 Night                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Tuesday                  143 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Wednesday                120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Thursday                 111 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Friday                   62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Saturday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Sunday                   122 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 04/11/2024 18:45:12 UTC
 <!--END_SECTION:waka-->
 
 ---
