@@ -21,7 +21,7 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
 ## 🚀 Fun Fact
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   ❞</i>
+<i>❝A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
