@@ -21,7 +21,7 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
 ## 🚀 Fun Fact
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer viruses are an urban legend.”— Peter Norton, 1988   ❞</i>
+<i>❝“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
