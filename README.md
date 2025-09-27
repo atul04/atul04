@@ -21,7 +21,7 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
 ## 🚀 Fun Fact
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“When you are stuck in a traffic jam with a Porsche, all you do is burn more gas in idle.  Scalability is about building wider roads, not about building faster cars.”— Steve Swartz   ❞</i>
+<i>❝YouTube was founded by 3 former employees of PayPal.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
