@@ -33,9 +33,9 @@ I am a seasoned professional with a strong background in Machine Learning, NLP, 
  
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2024%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.41%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.41%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -69,7 +69,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/01/2026 18:52:28 UTC
+ Last Updated on 05/01/2026 18:57:27 UTC
 <!--END_SECTION:waka-->
 
 ---
